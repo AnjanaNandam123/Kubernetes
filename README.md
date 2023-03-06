@@ -59,7 +59,7 @@ sysctl --system
 apt update && apt install -y kubeadm=1.18.5-00 kubelet=1.18.5-00 kubectl=1.18.5-00
 ```
 
-```
+
 
 ## On kmaster
 ##### Initialize Kubernetes Cluster
